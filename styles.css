@@ -61,6 +61,27 @@ header, h1{
 
 .border1 {
   border: 5px solid #342156;
+  border-radius: 20px;
+}
+
+.border2 {
+  border: 5px solid #342156;
+  border-radius: 25%;
+}
+
+.border3 {
+  border: 5px solid #342156;
+  border-radius: 100%;
+}
+
+.border4 {
+  border: 5px solid #342156;
+  border-radius: 30px;
+}
+
+.border5 {
+  border: 5px solid #342156;
+  border-radius: 15px;
 }
 
 .header {
@@ -101,4 +122,5 @@ header, h1{
 
     6.A different padding value.
 
-    7.Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
+    7.Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)
+    */
