@@ -22,44 +22,44 @@ header, h1{
   padding: 5px;
   line-height:2em;
 }
-/*
+
 .article2 {
-  font-family:
-  background-color:
-  font-size:
-  color:
-  padding:
-  line-height:
+  font-family: 'Slabo 27px', serif;
+  background-color: #adef45;
+  font-size: 1rem;
+  color: #336278;
+  padding: 25px;
+  line-height: 1.6em;
 }
 
 .article3 {
-  font-family:
-  background-color:
-  font-size:
-  color:
-  padding:
-  line-height:
+  font-family: 'Roboto Slab', serif;
+  background-color: #883765;
+  font-size: 1.25em;
+  color: #ddf438;
+  padding: 50px;
+  line-height: 1.25em;
 }
 
 .article4 {
-  font-family:
-  background-color:
-  font-size:
-  color:
-  padding:
-  line-height:
+  font-family: 'Ranga', cursive;
+  background-color: #fedade;
+  font-size: 30px;
+  color: #229956;
+  padding: 70px;
+  line-height: 1.75em;
 }
 
 .article5 {
-  font-family:
-  background-color:
-  font-size:
-  color:
-  padding:
-  line-height:
+  font-family: 'Indie Flower', cursive;
+  background-color: #75fed8;
+  font-size: 45px;
+  color: #128165;
+  padding: 90px;
+  line-height: 2.5em;
 }
 
-*/
+
 .header {
 
 }
