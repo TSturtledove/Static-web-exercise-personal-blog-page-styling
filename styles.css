@@ -24,3 +24,32 @@ header, h1{
   align-items: flex-end;
   padding-top: 3rem;
 }
+
+
+/*
+    1.A different background color.
+
+    2.A different font family.
+    
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Slabo 27px', serif;
+
+    font-family: 'Roboto Slab', serif;
+
+    font-family: 'Ranga', cursive;
+
+    font-family: 'Indie Flower', cursive;
+
+
+
+    3.A different font size.
+
+    4.A different font color.
+
+    5.A different line height.
+
+    6.A different padding value.
+
+    7.Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
