@@ -15,14 +15,14 @@ header, h1{
 
 
 .article1 {
-  font-family:
-  background-color:
-  font-size:
-  color:
-  padding:
-  line-height:
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ff2341;
+  font-size: 2rem;
+  color: #dd8967;
+  padding: 5px;
+  line-height:2em;
 }
-
+/*
 .article2 {
   font-family:
   background-color:
@@ -59,7 +59,7 @@ header, h1{
   line-height:
 }
 
-
+*/
 .header {
 
 }
